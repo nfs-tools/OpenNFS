@@ -1,0 +1,3 @@
+[submodule "LibOpenNFS"]
+	path = LibOpenNFS
+	url = https://github.com/OpenNFS/LibOpenNFS.git
